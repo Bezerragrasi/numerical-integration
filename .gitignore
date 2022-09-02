@@ -1,0 +1,11 @@
+# user config files
+*.vscode/*
+*.directory/*
+
+# built book
+**/_build/*
+
+# jupyer notebook checkpoints
+*.ipynb_checkpoints
+
+**/__pycache__/*
